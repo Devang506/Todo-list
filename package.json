@@ -4,12 +4,12 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-      "start": "node app.js"
+    
   },
   "author": "",
   "license": "ISC",
   "engines":{
-    "node" : ">=16.15.1",
+    "node" : "16.15.1",
     "npm" : "8.11.0"
 
   },
